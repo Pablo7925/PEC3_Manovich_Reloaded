@@ -7,5 +7,8 @@
 En términos de la era digital, los procesos de hibridación (la convergencia y unión de elementos de distintas disciplinas) constituyen una característica central de la cultura contemporánea. El concepto de hibridación se refiere, en términos generales, a la integración de tecnologías, formas artísticas, industrias y plataformas en un solo producto o experiencia. Según Lev Manovich en su obra _El software toma el mando_ (2013), este fenómeno es una consecuencia directa de la forma en que el software ha transformado la producción cultural y la interacción social.
 Manovich argumenta que el software no solo ha influido en el diseño y la creación de nuevos medios, sino que ha permitido la integración de varias formas culturales e industriales previamente separadas. La hibridación, en este sentido, es una manifestación de cómo las herramientas tecnológicas contemporáneas permiten combinar elementos dispares para crear nuevas formas de expresión, producción y consumo. Esto es especialmente visible en industrias como los videojuegos, el cine, la educación, y muchas otras, donde los límites entre disciplinas y plataformas se difuminan cada vez más.
 
-### Hibridación entre industria del videojuego y cine: The Last of Us
+### Hibridación entre industria del videojuego y cine
+
+Desde finales de los años 90 y principios de los 2000, la industria del videojuego y la del cine han ido convergiendo hasta el punto de compartir Tecnología, como capturas de moviento, sofware de edición o Lenguajes expresivos, como palnos, montajes y guiones
+
 The Last of Us (Naughty Dog, 2013) se ha convertido en uno de los ejemplos paradigmáticos de lo que se suele llamar “videojuego cinematográfico”. Pero, según Manovich, es más exacto decir que se trata de un híbrido software entre cine y videojuego: un objeto en el que el lenguaje cinematográfico y el diseño interactivo se reescriben mutuamente.
