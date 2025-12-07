@@ -25,5 +25,6 @@ En este contexto industrial y técnico aparece The Last of Us como un caso ejemp
 
 #### 2.2 The Last of Us como caso ejemplar de híbrido cine–videojuego
 
-The Last of Us (Naughty Dog, 2013) se ha convertido en uno de los ejemplos paradigmáticos de lo que se suele llamar “videojuego cinematográfico”. Pero, según Manovich, es más exacto decir que se trata de un híbrido software entre cine y videojuego: un objeto en el que el lenguaje cinematográfico y el diseño interactivo se reescriben mutuamente.
-<b>sdffdsfasdf<b>
+The Last of Us (Naughty Dog, 2013) se ha convertido en uno de los ejemplos paradigmáticos de lo que se suele llamar “videojuego cinematográfico”. Pero, según Manovich, es más exacto decir que se trata de un híbrido software entre cine y videojuego: un objeto en el que el lenguaje cinematográfico y el diseño interactivo se reescriben mutuamente
+
+<b>La escena jugable como híbrido: plano, montaje y motor de juego<b>
