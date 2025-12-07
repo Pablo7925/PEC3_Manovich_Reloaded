@@ -11,6 +11,8 @@ Manovich argumenta que el software no solo ha influido en el diseño y la creaci
 
 ### Hibridación entre industria del videojuego y cine
 
+#### Panorama general de la hibridación juego–cine
+
 Desde finales de los años 90 y principios de los 2000, la industria del videojuego y la del cine han ido convergiendo hasta el punto de compartir Tecnología, como capturas de moviento, sofware de edición o Lenguajes expresivos, como palnos, montajes y guiones.
 No solo se trata de que una misma historia exista como película, cómic y juego, sino de que, dentro del propio videojuego, la lógica del cine está codificada y remezclada con la lógica del juego. Algunos rasgos generales de esta hibridación en la industria son
 
@@ -18,6 +20,9 @@ No solo se trata de que una misma historia exista como película, cómic y juego
 - Captura de movimiento y actuación de actores profesionales que luego se aplican a personajes 3D.
 - Juegos basados en películas y películas basadas en juegos.
 
+Según Manovich se podría decir que el vídeo juego es un metamedio que contiene secuencias de vídeo, espacios 3D, musica interactiva, interfaz gráfica y la hibridación ya no es "meter un vídeo" en el juego, sino integrar las operaciones propias del lenguaje cinematográfico (plano, montaje, actuación).
+En este contexto industrial y técnico aparece The Last of Us como un caso ejemplar, donde la aspiración cinematográfica y el diseño de juego no están simplemente yuxtapuestos, sino profundamente hibridados.
 
+#### The Last of Us como caso ejemplar de híbrido cine–videojuego
 
 The Last of Us (Naughty Dog, 2013) se ha convertido en uno de los ejemplos paradigmáticos de lo que se suele llamar “videojuego cinematográfico”. Pero, según Manovich, es más exacto decir que se trata de un híbrido software entre cine y videojuego: un objeto en el que el lenguaje cinematográfico y el diseño interactivo se reescriben mutuamente.
