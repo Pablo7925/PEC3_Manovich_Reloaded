@@ -67,6 +67,18 @@ Antes del software, las clases se organizaban mediante una serie de medios anal�
 - La nota a las familias se convierte en un feed, similar al de Facebook o Instagram, donde se comparten fotos, vídeos y mensajes.
 - La pizarra de recompensas o el "rincón de estrellas" se transforman en un sistema de puntos visibles en la pantalla, asociados a avatares personalizados.
 
+Aquí, la hibridación no es solo "poner un juego" dentro del aula, sino disolver la frontera entre gestión educativa, red social y videojuego. La lógica de cada medio se filtra en los otros:
+•	Lógica de la red social:
+o	Actualizaciones frecuentes, notificaciones push, timeline.
+o	Comunicación casi en tiempo real entre docente y familias.
+•	Lógica del videojuego:
+o	Puntos, niveles, feedback inmediato.
+o	Avatares personalizados que hacen de “yo digital” del estudiante.
+•	Lógica administrativa:
+o	Registro sistemático de conductas, generación automática de informes.
+o	Historiales revisables que pueden influir en decisiones pedagógicas.
+
+
 
 
 
