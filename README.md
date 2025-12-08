@@ -52,4 +52,13 @@ En el ámbito educativo, la hibridación mediada por software se ha acelerado co
 
 ClassDojo es un buen ejemplo de cómo se hibridan gestión del comportamiento, red social, videojuego y dispositivo de evaluación, todo ello articulado por el software
 
+### 3.2. ClassDojo como caso ejemplar de híbrido educativo
+ClassDojo es una aplicación pensada para la gestión del aula y la comunicación con las familias. A primera vista, parece “simplemente” una herramienta para poner puntos positivos y negativos a los estudiantes, enviar mensajes a los padres y compartir fotos de la vida del aula. Pero si la miramos desde Manovich, se revela como un híbrido complejo:
+- Un sistema de gestión del comportamiento (inspirado en modelos conductistas).
+- Una red social ligera para familias y docentes.
+- Un mini-videojuego centrado en avatares y puntos.
+- Una plataforma de datos y visualización (informes, gráficos, historiales).
+
+
+
 
