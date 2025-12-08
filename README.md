@@ -80,12 +80,12 @@ Aquí, la hibridación no es solo "poner un juego" dentro del aula, sino desdibu
  
 En lugar de tener por un lado los cuadernos y por otro una red social privada con las familias, ClassDojo las hace una sola cosa: un híbrido que funciona a la vez como entorno de gestión, juego y medio de comunicación.
 
-## 4. Conclusión: vivir entre híbridos
+### 4. Conclusión: vivir entre híbridos
 Tanto The Last of Us como ClassDojo muestran que la hibridación de medios que describe Manovich no es un fenómeno marginal, sino el modo normal en que hoy producimos cultura y organizamos la vida social.
-En la industria del videojuego y el cine, la convergencia ha dado lugar a formatos donde ya no es fácil separar qué parte es “película” y qué parte es “juego”. The Last of Us encarna esta tendencia: cinematografía programable, escenas jugables con montaje dramático, universos narrativos que circulan entre mando y pantalla de televisión. La experiencia del jugador/espectador es el resultado de una profunda articulación entre narración lineal y sistema interactivo.
+En la industria del videojuego y el cine, la convergencia ha dado lugar a formatos donde ya no es fácil separar qué parte es "película" y qué parte es "juego". The Last of Us encarna esta tendencia: cinematografía programable, escenas jugables con montaje dramático, universos narrativos que circulan entre mando y pantalla de televisión. La experiencia del jugador/espectador es el resultado de una profunda articulación entre narración lineal y sistema interactivo.
 
+En la educación, las clases se reinscribe en la lógica de las plataformas: la educación se vive a través de interfaces que condensan red social, videojuego, expediente disciplinario y archivo documental. ClassDojo muestra cómo el comportamiento se cuantifica, la comunicación se acelera y el aula se hace visible como datos. 
 
+Manovich nos ofrece, en este sentido, una herramienta conceptual: en lugar de preguntar si algo es "cine" o "juego", "clase" o "red social", conviene preguntar qué medios, qué operaciones y qué lógicas se han hibridado en ese objeto de software, y con qué consecuencias para la experiencia.
 
-
-
-
+Vivimos en un entorno donde el software no solo "toma el mando" de los medios, sino que se convierte en la infraestructura silenciosa de nuestras prácticas culturales y educativas. Comprender la hibridación es una forma de hacer visible esa infraestructura, y tal vez de intervenir críticamente en ella: en cómo jugamos, cómo aprendemos y cómo se nos invita, o se nos obliga, a participar en estos mundos híbridos.
