@@ -49,6 +49,7 @@ La escuela, que tradicionalmente se apoyaba en medios analógicos (libros, pizar
   - Del trabajo en plataforma (paneles de control, métricas, dashboards).
  
 En el ámbito educativo, la hibridación mediada por software se ha acelerado con plataformas de gestión del aprendizaje (LMS como Moodle, Google Classroom), apps "aprender jugando" y seguimiento (Kahoot!, Duolingo, ClassDojo, etc.), sistemas de evaluación y analítica del aprendizaje (learning analytics), etc.
+
 ClassDojo es un buen ejemplo de cómo se hibridan gestión del comportamiento, red social, videojuego y dispositivo de evaluación, todo ello articulado por el software
 
 
