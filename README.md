@@ -27,7 +27,7 @@ En este contexto industrial y técnico aparece The Last of Us como un caso ejemp
 
 The Last of Us (Naughty Dog, 2013) se ha convertido en uno de los ejemplos paradigmáticos de lo que se suele llamar “videojuego cinematográfico”. Pero, según Manovich, es más exacto decir que se trata de un híbrido software entre cine y videojuego: un objeto en el que el lenguaje cinematográfico y el diseño interactivo se reescriben mutuamente
 
-<b>La escena jugable como híbrido: plano, montaje y motor de juego<b>
+<b>La escena jugable como híbrido: plano, montaje y motor de juego</b>
 
 En The Last of Us, las secuencias narrativas no se limitan a vídeos pegados al juego (modelo “multimedia”), sino que con frecuencia están integradas en el propio motor del juego.
 El plano cinematográfico (encuadre, movimiento de cámara,...) es implementado como un conjunto de parámetros en el motor gráfico. 
