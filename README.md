@@ -28,3 +28,23 @@ En este contexto industrial y técnico aparece The Last of Us como un caso ejemp
 The Last of Us (Naughty Dog, 2013) se ha convertido en uno de los ejemplos paradigmáticos de lo que se suele llamar “videojuego cinematográfico”. Pero, según Manovich, es más exacto decir que se trata de un híbrido software entre cine y videojuego: un objeto en el que el lenguaje cinematográfico y el diseño interactivo se reescriben mutuamente
 
 <b>La escena jugable como híbrido: plano, montaje y motor de juego<b>
+
+En The Last of Us, las secuencias narrativas no se limitan a vídeos pegados al juego (modelo “multimedia”), sino que con frecuencia están integradas en el propio motor del juego.
+El plano cinematográfico (encuadre, movimiento de cámara,...) es implementado como un conjunto de parámetros en el motor gráfico. 
+El montaje, planos en secuencia, se convierte en eventos programados: cambios de cámara, transiciones en tiempo real.
+Se puede decir, que esto es la hibridación, dando como resultado escenas hibrídas donde sigue existiendo una gramática cinematográfica reconocible (planos detalle, silencios dramáticos, flashbacks). Pero esa gramática está incrustada en estructuras y reglas de juego, el jugador puede moverse, explorar, fallar, repetir, desviar temporalmente el ritmo dramático.
+Según Manovich esta es la diferencia entre multimedia y hibridación: no estamos viendo una “película dentro del juego”, sino una forma nueva donde las operaciones cinematográficas son parte del sistema interactivo.
+
+### 3. Hibridación en la educación digital  
+
+#### 3.1. Panorama general de la hibridación en educación
+La escuela, que tradicionalmente se apoyaba en medios analógicos (libros, pizarras, cuadernos) y en dispositivos institucionales relativamente estables (boletines trimestrales, reuniones presenciales con familias), se ve reescrita por una lógica de plataforma:
+•	Unificación en una misma interfaz de:
+o	Contenidos (apuntes, vídeos, actividades).
+o	Comunicación (mensajes, foros, notificaciones).
+o	Evaluación (notas, rúbricas, historiales).
+•	Integración de lógicas de otros medios:
+o	De la red social (feeds, comentarios, likes).
+o	Del videojuego (puntos, medallas, niveles).
+o	Del trabajo en plataforma (paneles de control, métricas, dashboards).
+
