@@ -38,7 +38,7 @@ Según Manovich esta es la diferencia entre multimedia y hibridación: no estamo
 ### 3. Hibridación en la educación digital  
 
 #### 3.1. Panorama general de la hibridación en educación
-La escuela, que tradicionalmente se apoyaba en medios analógicos (libros, pizarras, cuadernos) y en dispositivos institucionales relativamente estables (boletines trimestrales, reuniones presenciales con familias), se ve reescrita por una lógica de plataforma:
+La educación tradicional se apoyaba en medios analógicos (libros, pizarras, cuadernos) y en dispositivos institucionales relativamente estables (boletines trimestrales, reuniones presenciales con familias), se ve reescrita por una lógica de plataforma:
 - Unificación en una misma interfaz de:
   - Contenidos (apuntes, vídeos, actividades).
   - Comunicación (mensajes, foros, notificaciones).
@@ -58,6 +58,15 @@ ClassDojo es una aplicación pensada para la gestión del aula y la comunicació
 - Una red social ligera para familias y docentes.
 - Un mini-videojuego centrado en avatares y puntos.
 - Una plataforma de datos y visualización (informes, gráficos, historiales).
+Todo ello empaquetado en un mismo objeto de software.
+
+<b>De la pizarra y el cuaderno a la interfaz para aprender y enseñar jugando</b>
+
+Antes del software, las clases se organizaban mediante una serie de medios analógicos: pizarra, cuadernos, notas escritas a las familias, boletines trimestrales. ClassDojo lo reescribe como módulos digitales:
+- El boletín de notas y el parte de conducta se convierten en una base de datos de comportamientos y logros, actualizada en tiempo real.
+- La nota a las familias se convierte en un feed, similar al de Facebook o Instagram, donde se comparten fotos, vídeos y mensajes.
+- La pizarra de recompensas o el "rincón de estrellas" se transforman en un sistema de puntos visibles en la pantalla, asociados a avatares personalizados.
+
 
 
 
