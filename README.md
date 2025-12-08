@@ -78,9 +78,11 @@ Aquí, la hibridación no es solo "poner un juego" dentro del aula, sino desdibu
   - Registro sistemático de conductas, generación automática de informes.
   - Historiales revisables que pueden influir en decisiones pedagógicas.
  
-En lugar de tener por un lado la libreta de notas y por otro una red social privada con las familias, ClassDojo las hace una sola cosa: un híbrido que funciona a la vez como entorno de gestión, juego y medio de comunicación.
+En lugar de tener por un lado los cuadernos y por otro una red social privada con las familias, ClassDojo las hace una sola cosa: un híbrido que funciona a la vez como entorno de gestión, juego y medio de comunicación.
 
 ## 4. Conclusión: vivir entre híbridos
+Tanto The Last of Us como ClassDojo muestran que la hibridación de medios que describe Manovich no es un fenómeno marginal, sino el modo normal en que hoy producimos cultura y organizamos la vida social.
+En la industria del videojuego y el cine, la convergencia ha dado lugar a formatos donde ya no es fácil separar qué parte es “película” y qué parte es “juego”. The Last of Us encarna esta tendencia: cinematografía programable, escenas jugables con montaje dramático, universos narrativos que circulan entre mando y pantalla de televisión. La experiencia del jugador/espectador es el resultado de una profunda articulación entre narración lineal y sistema interactivo.
 
 
 
