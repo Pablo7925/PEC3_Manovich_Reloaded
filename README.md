@@ -89,3 +89,11 @@ En la educación, las clases se reinscribe en la lógica de las plataformas: la 
 Manovich nos ofrece, en este sentido, una herramienta conceptual: en lugar de preguntar si algo es "cine" o "juego", "clase" o "red social", conviene preguntar qué medios, qué operaciones y qué lógicas se han hibridado en ese objeto de software, y con qué consecuencias para la experiencia.
 
 Vivimos en un entorno donde el software no solo "toma el mando" de los medios, sino que se convierte en la infraestructura silenciosa de nuestras prácticas culturales y educativas. Comprender la hibridación es una forma de hacer visible esa infraestructura, y tal vez de intervenir críticamente en ella: en cómo jugamos, cómo aprendemos y cómo se nos invita, o se nos obliga, a participar en estos mundos híbridos.
+
+<b>Bibliografía</b>
+Manovich, Lev (2013) El software toma el mando. Barcelona. Editorial UOC.
+
+The Last of Us PartI. [Consulta 5 de diciembre de 2025]
+<https://www.playstation.com/es-es/games/the-last-of-us-part-i/>
+
+
