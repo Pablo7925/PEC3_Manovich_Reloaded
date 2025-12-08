@@ -39,12 +39,16 @@ Según Manovich esta es la diferencia entre multimedia y hibridación: no estamo
 
 #### 3.1. Panorama general de la hibridación en educación
 La escuela, que tradicionalmente se apoyaba en medios analógicos (libros, pizarras, cuadernos) y en dispositivos institucionales relativamente estables (boletines trimestrales, reuniones presenciales con familias), se ve reescrita por una lógica de plataforma:
-•	Unificación en una misma interfaz de:
-o	Contenidos (apuntes, vídeos, actividades).
-o	Comunicación (mensajes, foros, notificaciones).
-o	Evaluación (notas, rúbricas, historiales).
-•	Integración de lógicas de otros medios:
-o	De la red social (feeds, comentarios, likes).
-o	Del videojuego (puntos, medallas, niveles).
-o	Del trabajo en plataforma (paneles de control, métricas, dashboards).
+- Unificación en una misma interfaz de:
+  - Contenidos (apuntes, vídeos, actividades).
+  - Comunicación (mensajes, foros, notificaciones).
+  - Evaluación (notas, historiales).
+- Integración de lógicas de otros medios:
+  - De la red social (feeds, comentarios, likes).
+  - Del videojuego (puntos, medallas, niveles).
+  - Del trabajo en plataforma (paneles de control, métricas, dashboards).
+ 
+En el ámbito educativo, la hibridación mediada por software se ha acelerado con plataformas de gestión del aprendizaje (LMS como Moodle, Google Classroom), apps "aprender jugando" y seguimiento (Kahoot!, Duolingo, ClassDojo, etc.), sistemas de evaluación y analítica del aprendizaje (learning analytics), etc.
+ClassDojo es un buen ejemplo de cómo se hibridan gestión del comportamiento, red social, videojuego y dispositivo de evaluación, todo ello articulado por el software
+
 
