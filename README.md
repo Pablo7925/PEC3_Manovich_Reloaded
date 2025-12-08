@@ -77,6 +77,10 @@ Aquí, la hibridación no es solo "poner un juego" dentro del aula, sino desdibu
 - Lógica administrativa:
   - Registro sistemático de conductas, generación automática de informes.
   - Historiales revisables que pueden influir en decisiones pedagógicas.
+ 
+En lugar de tener por un lado la libreta de notas y por otro una red social privada con las familias, ClassDojo las hace una sola cosa: un híbrido que funciona a la vez como entorno de gestión, juego y medio de comunicación.
+
+## 4. Conclusión: vivir entre híbridos
 
 
 
