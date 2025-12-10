@@ -58,7 +58,7 @@ Todo ello empaquetado en un mismo objeto de software.
 
 <b>De la pizarra y el cuaderno a la interfaz para aprender y enseñar jugando</b>
 
-Antes del software, las clases se organizaban mediante una serie de medios analógicos: pizarra, cuadernos, notas escritas a las familias, boletines trimestrales. ClassDojo lo reescribe como módulos digitales:
+Antes del software, las clases se organizaban a través de un conjunto de medios analógicos: pizarra, cuadernos, notas escritas a las familias, boletines trimestrales. ClassDojo lo reescribe como módulos digitales:
 - El boletín de notas y el parte de conducta se convierten en una base de datos de comportamientos y logros, actualizada en tiempo real.
 - La nota a las familias se convierte en un feed, similar al de Facebook o Instagram, donde se comparten fotos, vídeos y mensajes.
 - La pizarra de recompensas o el "rincón de estrellas" se convierte en un sistema de puntos visibles en la pantalla, asociados a avatares personalizados.
