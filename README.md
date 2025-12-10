@@ -6,10 +6,8 @@ Pablo José del Saz
 
 
 ### 1. Introducción
-En términos de la era digital, los procesos de hibridación (la convergencia y unión de elementos de distintas disciplinas) son en sí mismos una característica central de la cultura contemporánea. El concepto de hibridación constituye, en términos generales, la integración de tecnologías, formas artísticas, industrias y plataformas en un único producto o experiencia.
-
-Según Lev Manovich en su obra El software toma el mando (2013), este fenómeno es el resultado directamente de la forma en que el software ha transformado la producción cultural y la interacción social. Para el autor, el software no solo ha influido en el diseño y la creación de nuevos medios, sino que, a la vez, ha permitido la integración de varias formas culturales e industriales anteriormente separadas.
-
+En términos de la era digital, los procesos de hibridación (la convergencia y unión de elementos de distintas disciplinas) son en sí mismos una característica central de la cultura contemporánea. El concepto de hibridación constituye, en términos generales, la integración de tecnologías, formas artísticas, industrias y plataformas en un único producto o experiencia.</br>
+Según Lev Manovich en su obra El software toma el mando (2013), este fenómeno es el resultado directamente de la forma en que el software ha transformado la producción cultural y la interacción social. Para el autor, el software no solo ha influido en el diseño y la creación de nuevos medios, sino que, a la vez, ha permitido la integración de varias formas culturales e industriales anteriormente separadas.</br>
 En este sentido, la hibridación es una manifestación de cómo las herramientas tecnológicas actuales permiten combinar elementos muy distintos para crear nuevas formas de expresión, producción y consumo. Esto se aprecia sobre todo en industrias como las de los videojuegos, el cine, la educación, y muchas otras, donde los límites entre disciplinas y plataformas son cada vez más difíciles de percibir.
 
 ### 2. Hibridación entre industria del videojuego y cine
