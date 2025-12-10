@@ -33,7 +33,7 @@ Siguiendo a Manovich se podría definir el vídeo juego como un metamedio que co
 
 The Last of Us (Naughty Dog, 2013) se ha convertido en uno de los ejemplos paradigmáticos de lo que se definiría como "videojuego cinematográfico", aunque según Manovich, sería más exacto describirlo como un híbrido software entre cine y videojuego: un objeto en el que el lenguaje cinematográfico y el diseño interactivo se reescriben mutuamente.
 
-<b>La escena jugable como híbrido: plano, montaje y motor de juego</b>
+**La escena jugable como híbrido: plano, montaje y motor de juego**
 
 En The Last of Us, las secuencias narrativas no se son únicamente vídeos pegados al juego (modelo "multimedia"), sino que con suelen estar integradas en el propio motor del juego. El plano cinematográfico (encuadre, movimiento de cámara, ...) se implementa en el motor gráfico como un conjunto de parámetros. El montaje, planos en secuencia, se convierte en eventos ya programados: cambios de cámara o transiciones en tiempo real.</br>
 De esta forma, se podría definir esto como la hibridación, generando por lo tanto escenas hibridas, donde se mantiene una gramática cinematográfica reconocible (planos detalle, silencios dramáticos, flashbacks), pero integrada en estructuras y reglas de juego; el jugador puede moverse, explorar, fallar, repetir o desviar temporalmente el ritmo dramático. Según Manovich esto es lo que distingue multimedia e hibridación: no estamos viendo una "película dentro del juego", sino una forma nueva donde las operaciones cinematográficas son parte del sistema interactivo.
@@ -63,7 +63,7 @@ ClassDojo es una aplicación orientada a la gestión del aula y la comunicación
 - Una plataforma de datos y visualización (informes, gráficos, historiales).
 Todo ello empaquetado en un mismo objeto de software.
 
-<b>De la pizarra y el cuaderno a la interfaz para aprender y enseñar jugando</b>
+**De la pizarra y el cuaderno a la interfaz para aprender y enseñar jugando**
 
 Antes del software, las clases se organizaban a través de un conjunto de medios analógicos: pizarra, cuadernos, notas escritas a las familias, boletines trimestrales. ClassDojo lo reescribe como módulos digitales:
 - El boletín de notas y el parte de conducta se convierten en una base de datos de comportamientos y logros, actualizada en tiempo real.
@@ -94,8 +94,8 @@ Nos movemos en un entorno donde el software no solo "toma el mando" de los medio
 
 Manovich, Lev (2013) El software toma el mando. Barcelona. Editorial UOC.
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* The Last of Us PartI. [Consulta 5 de diciembre de 2025] <https://www.playstation.com/es-es/games/the-last-of-us-part-i/>
-* ClassDojo.[Consulta 6 de diciembre de 2025] <https://www.classdojo.com/es-mx/>
+* The Last of Us PartI. <https://www.playstation.com/es-es/games/the-last-of-us-part-i/>
+* ClassDojo. <https://www.classdojo.com/es-mx/>
 
 
 ----
