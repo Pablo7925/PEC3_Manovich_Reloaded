@@ -93,8 +93,13 @@ Nos movemos en un entorno donde el software no solo "toma el mando" de los medio
 <b>Bibliografía</b>
 
 Manovich, Lev (2013) El software toma el mando. Barcelona. Editorial UOC.
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
 
 The Last of Us PartI. [Consulta 5 de diciembre de 2025]
 <https://www.playstation.com/es-es/games/the-last-of-us-part-i/>
 
 
+----
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
