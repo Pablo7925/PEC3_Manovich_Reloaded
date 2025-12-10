@@ -7,9 +7,7 @@
 Autor: Pablo José del Saz Escalera 
 
 
-Fecha: 
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+Fecha: 10 de Diciembre de 2025
 
 
 ### 1. Introducción
@@ -99,5 +97,4 @@ Manovich, Lev (2013) El software toma el mando. Barcelona. Editorial UOC.
 
 
 ----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+ 
