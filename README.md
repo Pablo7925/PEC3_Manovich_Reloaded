@@ -36,7 +36,7 @@ The Last of Us (Naughty Dog, 2013) se ha convertido en uno de los ejemplos parad
 En The Last of Us, las secuencias narrativas no se son únicamente vídeos pegados al juego (modelo "multimedia"), sino que con suelen estar integradas en el propio motor del juego. El plano cinematográfico (encuadre, movimiento de cámara, ...) se implementa en el motor gráfico como un conjunto de parámetros. El montaje, planos en secuencia, se convierte en eventos ya programados: cambios de cámara o transiciones en tiempo real.</br>
 De esta forma, se podría definir esto como la hibridación, generando por lo tanto escenas hibridas, donde se mantiene una gramática cinematográfica reconocible (planos detalle, silencios dramáticos, flashbacks), pero integrada en estructuras y reglas de juego; el jugador puede moverse, explorar, fallar, repetir o desviar temporalmente el ritmo dramático. Según Manovich esto es lo que distingue multimedia e hibridación: no estamos viendo una "película dentro del juego", sino una forma nueva donde las operaciones cinematográficas son parte del sistema interactivo.
 
-<img width="854" height="737" alt="imagen" src="https://github.com/user-attachments/assets/514541ab-27fa-43f3-aaf6-2309b1254958" />
+<img width="654" height="537" alt="imagen" src="https://github.com/user-attachments/assets/514541ab-27fa-43f3-aaf6-2309b1254958" />
 
 
 ### 3. Hibridación en la educación digital  
