@@ -36,6 +36,9 @@ The Last of Us (Naughty Dog, 2013) se ha convertido en uno de los ejemplos parad
 En The Last of Us, las secuencias narrativas no se son únicamente vídeos pegados al juego (modelo "multimedia"), sino que con suelen estar integradas en el propio motor del juego. El plano cinematográfico (encuadre, movimiento de cámara, ...) se implementa en el motor gráfico como un conjunto de parámetros. El montaje, planos en secuencia, se convierte en eventos ya programados: cambios de cámara o transiciones en tiempo real.</br>
 De esta forma, se podría definir esto como la hibridación, generando por lo tanto escenas hibridas, donde se mantiene una gramática cinematográfica reconocible (planos detalle, silencios dramáticos, flashbacks), pero integrada en estructuras y reglas de juego; el jugador puede moverse, explorar, fallar, repetir o desviar temporalmente el ritmo dramático. Según Manovich esto es lo que distingue multimedia e hibridación: no estamos viendo una "película dentro del juego", sino una forma nueva donde las operaciones cinematográficas son parte del sistema interactivo.
 
+<img width="854" height="737" alt="imagen" src="https://github.com/user-attachments/assets/514541ab-27fa-43f3-aaf6-2309b1254958" />
+
+
 ### 3. Hibridación en la educación digital  
 
 #### 3.1. Panorama general de la hibridación en educación
@@ -81,6 +84,9 @@ En este caso, la hibridación no es solo "poner un juego" dentro del aula, sino 
  
 En vez de tener por un lado los cuadernos y por otro una red social privada con las familias, ClassDojo las fusiona en una sola: un híbrido que funciona a la vez como entorno de gestión, juego y medio de comunicación.
 
+<img width="2200" height="1732" alt="classdojoicon" src="https://github.com/user-attachments/assets/7d0b1e1f-d49b-4d5f-bd17-be0c8615bc37" />
+
+
 ### 4. Conclusión: vivir entre híbridos
 En los dos ejemplos, The Last of Us y ClassDojo, se demuestra que la hibridación de medios que describe Manovich no es un fenómeno marginal, sino el modo natural en el que hoy producimos cultura y organizamos la vida social. En la industria del videojuego y el cine, la fusión ha dado lugar a formatos donde ya no es fácil distinguir qué parte es "película" y qué parte es "juego".</br>
 The Last of Us encarna esta tendencia: cinematografía programable, escenas jugables con montaje dramático, universos narrativos que se mueven entre mando y pantalla de televisión. La experiencia del jugador/espectador es el resultado de una profunda transición entre narración lineal y sistema interactivo.</br>
@@ -93,6 +99,7 @@ Nos movemos en un entorno donde el software no solo "toma el mando" de los medio
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * The Last of Us PartI. <https://www.playstation.com/es-es/games/the-last-of-us-part-i/>
 * ClassDojo. <https://www.classdojo.com/es-mx/>
+* Playstation. https://www.playstation.com/es-es/games/the-last-of-us-part-i/
 
 
 ----
