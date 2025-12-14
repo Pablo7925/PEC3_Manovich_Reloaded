@@ -84,8 +84,9 @@ En este caso, la hibridación no es solo "poner un juego" dentro del aula, sino 
  
 En vez de tener por un lado los cuadernos y por otro una red social privada con las familias, ClassDojo las fusiona en una sola: un híbrido que funciona a la vez como entorno de gestión, juego y medio de comunicación.
 
-<img width="2200" height="1732" alt="classdojoicon" src="https://github.com/user-attachments/assets/7d0b1e1f-d49b-4d5f-bd17-be0c8615bc37" />
+<img width="1200" height="732" alt="classdojoicon" src="https://github.com/user-attachments/assets/7d0b1e1f-d49b-4d5f-bd17-be0c8615bc37" />
 
+ClassDojo logo. Fuente: ClassDojo (2025).
 
 ### 4. Conclusión: vivir entre híbridos
 En los dos ejemplos, The Last of Us y ClassDojo, se demuestra que la hibridación de medios que describe Manovich no es un fenómeno marginal, sino el modo natural en el que hoy producimos cultura y organizamos la vida social. En la industria del videojuego y el cine, la fusión ha dado lugar a formatos donde ya no es fácil distinguir qué parte es "película" y qué parte es "juego".</br>
