@@ -3,12 +3,10 @@
 ## Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 ### Recurso de aprendizaje de Cultura Digital 
 
-
 Autor: Pablo José del Saz Escalera 
-
-
-Fecha: 10 de Diciembre de 2025
-
+Asignatura: Cultura Digital
+Grado: Multimedia
+Año: 2025 
 
 ### 1. Introducción
 En términos de la era digital, los procesos de hibridación (la convergencia y unión de elementos de distintas disciplinas) son en sí mismos una característica central de la cultura contemporánea. El concepto de hibridación constituye, en términos generales, la integración de tecnologías, formas artísticas, industrias y plataformas en un único producto o experiencia.</br>
