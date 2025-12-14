@@ -3,12 +3,9 @@
 ## Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 ### Recurso de aprendizaje de Cultura Digital 
 
-Autor: Pablo José del Saz Escalera
-
-Asignatura: Cultura Digital
-
-Grado: Multimedia
-
+Autor: Pablo José del Saz Escalera</br>
+Asignatura: Cultura Digital</br>
+Grado: Multimedia</br>
 Año: 2025 
 
 ### 1. Introducción
