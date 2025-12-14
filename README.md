@@ -84,7 +84,7 @@ En este caso, la hibridación no es solo "poner un juego" dentro del aula, sino 
  
 En vez de tener por un lado los cuadernos y por otro una red social privada con las familias, ClassDojo las fusiona en una sola: un híbrido que funciona a la vez como entorno de gestión, juego y medio de comunicación.
 
-<img width="1200" height="732" alt="classdojoicon" src="https://github.com/user-attachments/assets/7d0b1e1f-d49b-4d5f-bd17-be0c8615bc37" />
+<img width="100" height="100" alt="classdojoicon" src="https://github.com/user-attachments/assets/7d0b1e1f-d49b-4d5f-bd17-be0c8615bc37" />
 
 ClassDojo logo. Fuente: ClassDojo (2025).
 
