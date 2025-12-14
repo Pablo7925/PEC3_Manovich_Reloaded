@@ -36,7 +36,7 @@ De esta forma, se podría definir esto como la hibridación, generando por lo ta
 
 <img width="654" height="537" alt="imagen" src="https://github.com/user-attachments/assets/514541ab-27fa-43f3-aaf6-2309b1254958" />
 
-Imagen obenida de la web:
+Imagen obenida de la web: https://www.playstation.com/es-es/games/the-last-of-us-part-i/
 
 
 ### 3. Hibridación en la educación digital  
