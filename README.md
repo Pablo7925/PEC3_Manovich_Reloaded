@@ -36,6 +36,8 @@ De esta forma, se podría definir esto como la hibridación, generando por lo ta
 
 <img width="654" height="537" alt="imagen" src="https://github.com/user-attachments/assets/514541ab-27fa-43f3-aaf6-2309b1254958" />
 
+Imagen obenida de la web:
+
 
 ### 3. Hibridación en la educación digital  
 
@@ -84,7 +86,7 @@ En vez de tener por un lado los cuadernos y por otro una red social privada con 
 
 <img width="500" height="500" alt="classdojoicon" src="https://github.com/user-attachments/assets/7d0b1e1f-d49b-4d5f-bd17-be0c8615bc37" />
 
-ClassDojo logo. Fuente: ClassDojo (2025).
+ClassDojo logo. Fuente: [ClassDojo](https://www.classdojo.com/es-es/) (2025).
 
 ### 4. Conclusión: vivir entre híbridos
 En los dos ejemplos, The Last of Us y ClassDojo, se demuestra que la hibridación de medios que describe Manovich no es un fenómeno marginal, sino el modo natural en el que hoy producimos cultura y organizamos la vida social. En la industria del videojuego y el cine, la fusión ha dado lugar a formatos donde ya no es fácil distinguir qué parte es "película" y qué parte es "juego".</br>
